@@ -1,0 +1,31 @@
+{
+  "teams": [
+    {
+      "name": "Gyrhuna",
+      "players": ["János Diák", "Süsü"]
+    },
+    {
+      "name": "Achni",
+      "players": ["Meilong", "Tianlong"]
+    },
+    {
+      "name": "Bathar",
+      "players": ["Pakhangba", "Poubi Lai Paphal"]
+    }
+  ],
+  "playerOrder": [
+    "János Diák",
+    "Süsü",
+    "Meilong",
+    "Tianlong",
+    "Pakhangba",
+    "Poubi Lai Paphal"
+  ],
+  "rounds": [
+    ["A", "B", "C", "D", "E", "F"],
+    ["A", "B", "C", "D", "E", "F"],
+    ["A", "B", "A", "A", "A", "A"],
+    ["A", "A", "A", "B", "A", "A"],
+    ["B", "C", "A", "B", "E", "F"]
+  ]
+}
